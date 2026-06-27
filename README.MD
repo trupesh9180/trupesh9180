@@ -103,14 +103,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=trupesh9180&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
 <p align="center">
